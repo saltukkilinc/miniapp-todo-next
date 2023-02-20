@@ -1,6 +1,6 @@
 import React, { useContext} from "react";
 import ActiveCheckboxIcon from "../UI/Icons/ActiveCheckboxIcon";
-import PassiveCheckboxIcon from "../UI/Icons/PassivecheckboxIcon";
+import PassiveCheckboxIcon from "../UI/Icons/PassiveCheckboxIcon";
 import TodoContext from "@/context/todo-context";
 import dynamic from "next/dynamic";
 
